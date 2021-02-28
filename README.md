@@ -15,10 +15,10 @@ jamesclonk := struct {
 		"Golang", "Ruby", "Python", "Java", "Scala", "Perl",
 	},
 	Technologies: []string{
-		"Cloud Foundry", "BOSH", "Kubernetes", "Linux",
+		"Cloud Foundry", "BOSH", "Kubernetes", "Containers", "Linux",
 	},
 	Databases: []string{
-		"Postgres", "MySQL", "Oracle", "MongoDB", "InfluxDB",
+		"Postgres", "MySQL", "Oracle", "SQLite", "MongoDB", "InfluxDB",
 	},
 }
 ```
