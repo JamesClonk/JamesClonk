@@ -6,6 +6,7 @@ jamesclonk := struct {
 	Languages []string
 	Technologies []string
 	Databases []string
+	Hobbies []string
 }{
 	Name: "Fabio Berchtold",
 	Nationality: "Swiss",
@@ -19,6 +20,9 @@ jamesclonk := struct {
 	},
 	Databases: []string{
 		"Postgres", "MySQL", "Oracle", "SQLite", "MongoDB", "InfluxDB",
+	},
+	Hobbies: []string{
+		"Formula 1", "iRacing", "Kerbal Space Program", "Zwift", "Urban Gardening",
 	},
 }
 ```
