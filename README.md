@@ -1,29 +1,30 @@
 ```go
 jamesclonk := struct {
-	Name string
-	Nationality string
-	Age string
-	Languages []string
-	Technologies []string
-	Databases []string
-	Hobbies []string
+    Name string
+    Nationality string
+    Age string
+    Languages []string
+    Technologies []string
+    Databases []string
+    Hobbies []string
 }{
-	Name: "Fabio Berchtold",
-	Nationality: "Swiss",
-	Age: "30+ 😂🙈",
-	Languages: []string{
-		"English", "German", "Swiss German",
-		"Golang", "Ruby", "Python", "Java", "Scala", "Perl",
-	},
-	Technologies: []string{
-		"Cloud Foundry", "BOSH", "Kubernetes", "Containers", "Linux",
-	},
-	Databases: []string{
-		"Postgres", "MySQL", "Oracle", "SQLite", "MongoDB", "InfluxDB",
-	},
-	Hobbies: []string{
-		"Formula 1", "iRacing", "Kerbal Space Program", "Zwift", "Urban Gardening",
-	},
+    Name: "Fabio Berchtold",
+    Nationality: "Swiss",
+    Age: "30+ 😂🙈",
+    Languages: []string{
+        "English", "German", "Swiss German",
+        "Golang", "Ruby", "Python", "Java", "Scala", "Perl",
+    },
+    Technologies: []string{
+        "Cloud Foundry", "BOSH", "Kubernetes", "Containers", "Linux",
+    },
+    Databases: []string{
+        "Postgres", "MySQL", "Oracle", "SQLite", "MongoDB", "InfluxDB",
+    },
+    Hobbies: []string{
+        "Formula 1", "iRacing", "Kerbal Space Program", "Zwift",
+        "Tennis", "Skiing", "Urban Gardening", "Electronics"
+    },
 }
 ```
 
