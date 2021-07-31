@@ -9,7 +9,7 @@ jamesclonk := struct {
     Hobbies []string
 }{
     Name: "Fabio Berchtold",
-    Nationality: "Swiss",
+    Nationality: "Swiss 🇨🇭",
     Age: "30+ 😂🙈",
     Languages: []string{
         "English", "German", "Swiss German",
