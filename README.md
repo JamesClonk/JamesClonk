@@ -23,7 +23,7 @@ jamesclonk := struct {
     },
     Hobbies: []string{
         "Formula 1", "iRacing", "Kerbal Space Program", "Zwift",
-        "Tennis", "Skiing", "Urban Gardening", "Electronics",
+        "Bouldering", "Skiing", "Urban Gardening", "Electronics",
     },
 }
 ```
