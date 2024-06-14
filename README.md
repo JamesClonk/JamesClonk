@@ -16,7 +16,8 @@ jamesclonk := struct {
         "Golang", "Ruby", "Python", "Java", "Scala", "Perl",
     },
     Technologies: []string{
-        "Cloud Foundry", "BOSH", "Kubernetes", "Containers", "Linux",
+        "Cloud Foundry", "BOSH", "Linux",
+        "Kubernetes", "KubeVirt", "Containers", 
     },
     Databases: []string{
         "Postgres", "MySQL", "Oracle", "SQLite", "MongoDB", "InfluxDB",
